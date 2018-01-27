@@ -17,6 +17,7 @@
 已購入：
 
 * 2017-01-01：電子工業．Alex R. Young & Marc Harter  - Node.js 硬實戰：115 個核心技巧（[9787121304026](https://book.douban.com/subject/26937390/)）
+* 2017-01-01：電子工業．David Gonzale - Node.js 微服務（[9787121305245](https://book.douban.com/subject/26937361/)）
 * 2016-05-30：旗標．趙英傑 - 超圖解物聯網 IoT 實作入門（[9789863123439](https://www.tenlong.com.tw/products/9789863123439)）
 
 
