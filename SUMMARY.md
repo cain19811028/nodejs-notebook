@@ -1,6 +1,6 @@
 # Summary
 
-* [學習管道](README.md)
+* [學習筆記](README.md)
 * [Framework](framework.md)
   * [MVC Framework](framework/mvc-framework.md)
   * [API Framework](framework/api-framework.md)
